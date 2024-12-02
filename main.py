@@ -6,7 +6,6 @@ def main():
     print('My first Git program!')
     print('Other string')
     print('Opa')
-    print(2)
     my_superfunction()
 
 if __name__ == '__main__':
